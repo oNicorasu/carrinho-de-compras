@@ -5,7 +5,7 @@ public class EstoqueProdutos {
 
    // Construtor que inicia a array de 'produtos' com tamanho de 100 itens e define a quantidade inicial como zero.
    public EstoqueProdutos(){
-      produtos = new ProdutoEstoque[100];
+      produtos = new ProdutoEstoque[1000];
       qtdProdutos = 0;
    }
 
